@@ -1,0 +1,3 @@
+This is the content to write into file
+Another Line of text
+Third Line of text
